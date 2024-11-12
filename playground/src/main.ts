@@ -1,4 +1,4 @@
-import BQIcons from '@bigquant/icons-vue/global'
+import BQIcons from 'bigquant-icons-vue/global'
 import { createApp } from 'vue'
 import App from './App.vue'
 

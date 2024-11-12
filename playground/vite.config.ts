@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [DevTools(), vue()],
   resolve: {
     alias: {
-      '@bigquant/icons-vue': path.resolve(__dirname, '../packages/vue/src'),
+      'bigquant-icons-vue': path.resolve(__dirname, '../packages/vue/src'),
     },
   },
 })

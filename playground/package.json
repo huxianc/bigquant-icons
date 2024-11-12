@@ -9,8 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@bigquant/icons-svg": "workspace:*",
-    "@bigquant/icons-vue": "workspace:*",
+    "bigquant-icons-svg": "workspace:*",
+    "bigquant-icons-vue": "workspace:*",
     "vue": "^3.4.21"
   },
   "devDependencies": {

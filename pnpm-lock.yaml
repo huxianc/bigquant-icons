@@ -35,9 +35,6 @@ importers:
 
   packages/vue:
     devDependencies:
-      '@bigquant/icons-svg':
-        specifier: workspace:*
-        version: link:../svg
       '@pnpm/find-workspace-dir':
         specifier: ^6.0.3
         version: 6.0.3
@@ -53,6 +50,9 @@ importers:
       '@types/node':
         specifier: ^20.11.25
         version: 20.17.6
+      bigquant-icons-svg:
+        specifier: workspace:*
+        version: link:../svg
       camelcase:
         specifier: ^8.0.0
         version: 8.0.0
@@ -98,10 +98,10 @@ importers:
 
   playground:
     dependencies:
-      '@bigquant/icons-svg':
+      bigquant-icons-svg:
         specifier: workspace:*
         version: link:../packages/svg
-      '@bigquant/icons-vue':
+      bigquant-icons-vue:
         specifier: workspace:*
         version: link:../packages/vue
       vue:

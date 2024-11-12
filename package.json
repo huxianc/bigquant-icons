@@ -2,6 +2,7 @@
   "name": "@bigquant/icons-monorepo",
   "version": "0.0.1",
   "private": true,
+  "packageManager": "pnpm@9.9.0",
   "type": "module",
   "license": "MIT",
   "scripts": {

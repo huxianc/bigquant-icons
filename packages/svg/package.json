@@ -1,0 +1,28 @@
+{
+  "name": "@bigquant/icons-svg",
+  "version": "0.0.1",
+  "description": "SVG icon forBigQuant Icons collection.",
+  "keywords": [
+    "icon",
+    "svg",
+    "bigquant"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huxianc/bigquant-icons/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huxianc/bigquant-icons.git",
+    "directory": "packages/svg"
+  },
+  "files": [
+    "*.svg"
+  ],
+  "scripts": {
+    "optimize": "svgo -f . -o ."
+  },
+  "devDependencies": {
+    "svgo": "^3.2.0"
+  }
+}

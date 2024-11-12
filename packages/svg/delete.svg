@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14" fill="none">
+  <mask id="mask0_300_43261" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="3" y="0" width="9" height="3">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M4.28338 0.599976C3.72921 0.599976 3.25421 1.07498 3.25421 1.62914V2.97498H4.36254V1.78748H4.44171H9.90421V2.97498H11.0125V1.62914C11.0125 1.07498 10.5375 0.599976 9.98338 0.599976H4.28338Z" fill="white"/>
+  </mask>
+  <g mask="url(#mask0_300_43261)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M2.46252 3.76662H11.725V-0.191711H2.46252V3.76662Z" fill="currentColor"/>
+  </g>
+  <mask id="mask1_300_43261" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="2" width="14" height="12">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1.27505 2.97498C1.03755 2.97498 0.800049 3.21248 0.800049 3.44998V4.00414C0.800049 4.08331 0.879215 4.16248 0.958382 4.16248H1.90838L2.22505 12.3166C2.22505 12.7916 2.70005 13.2666 3.17505 13.2666H10.9334C11.4875 13.2666 11.8834 12.7916 11.9625 12.2375C11.9625 11.8416 12.1209 9.14997 12.3584 4.08331H13.3084C13.3875 4.08331 13.4667 4.00414 13.4667 3.92498V3.44998C13.4667 3.21248 13.2292 2.97498 12.9917 2.97498H1.27505Z" fill="white"/>
+  </mask>
+  <g mask="url(#mask1_300_43261)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M12.9917 2.97498H1.27505C1.03755 2.97498 0.800049 3.21248 0.800049 3.44998V4.00414C0.800049 4.08331 0.879215 4.16248 0.958382 4.16248H1.90838L2.22505 12.3166C2.22505 12.7916 2.70005 13.2666 3.17505 13.2666H10.9334C11.4875 13.2666 11.8834 12.7916 11.9625 12.2375C11.9625 11.8416 12.1209 9.14997 12.3584 4.08331H13.3084C13.3875 4.08331 13.4667 4.00414 13.4667 3.92498V3.44998C13.4667 3.21248 13.2292 2.97498 12.9917 2.97498Z" stroke="currentColor" stroke-width="2.375"/>
+  </g>
+  <path d="M5.86672 6.61664V9.62497" stroke="currentColor" stroke-width="1.1875" stroke-linecap="round"/>
+  <path d="M8.32088 6.61664V9.62497" stroke="currentColor" stroke-width="1.1875" stroke-linecap="round"/>
+</svg>

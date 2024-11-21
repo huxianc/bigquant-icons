@@ -1,6 +1,6 @@
 {
   "name": "@bigquant/icons-monorepo",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "private": true,
   "packageManager": "pnpm@9.9.0",
   "type": "module",

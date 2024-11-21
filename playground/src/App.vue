@@ -25,7 +25,7 @@ console.log(icons)
 .icon {
   /* width: 1em;
   height: 1em; */
-  /* color: #202328; */
-  color: #e74c3c;
+  color: #202328;
+  /* color: #e74c3c; */
 }
 </style>
